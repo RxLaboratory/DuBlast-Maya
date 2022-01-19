@@ -15,7 +15,7 @@ Better Playblasts for Maya
 *DuBlast* should work with either *Python 2.x* or *Python 3.x*.  
 For now, it works only on *Windows*, but making it work on *Linux* should be easy.
 
-- Download the [latest release](https://github.com/Nico-Duduf/DuMAF_DuBlast/releases).
+- Download the [latest release](https://github.com/RxLaboratory/DuMAF_DuBlast/releases).
 - Unzip all the files to one of the Maya plug-ins folder.  
     `C:\Users\YourName\Documents\maya\plug-ins\`
 - In the Maya Plug-in Manager, click the *Refresh* button, then enable *DuBlast* by checking the *Loaded* box. You'll probably want to check the *Auto load* box too...
@@ -39,7 +39,7 @@ You can add this command to a shelf, or use it to create a keyboard shortcut. Th
 
 When running the command, a preview window and these options are shown:
 
-![](https://github.com/Nico-Duduf/DuMAF_DuBlast/blob/main/dublast_screenshot.png?raw=true)
+![](https://github.com/RxLaboratory/DuMAF_DuBlast/blob/main/dublast_screenshot.png?raw=true)
 
 - Camera: Select the camera to use for the playblast. By default, *DuBlast* selects the first camera found in the render settings.
 - Size: Set the size ratio according to the render settings.
