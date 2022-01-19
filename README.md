@@ -8,6 +8,7 @@ Better Playblasts for Maya
 - Modern and animator-friendly video format (Lightweight intra-frame mp4).
 - Auto-save next to the Maya scene file.
 - Simple and performant default player (ffplay).
+- No need to install Quicktime anymore...
 
 ## Installation
 
