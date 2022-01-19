@@ -38,6 +38,8 @@ You can add this command to a shelf, or use it to create a keyboard shortcut. Th
 
 When running the command, a preview window and these options are shown:
 
+![](https://github.com/Nico-Duduf/DuMAF_DuBlast/blob/main/dublast_screenshot.png?raw=true)
+
 - Camera: Select the camera to use for the playblast. By default, *DuBlast* selects the first camera found in the render settings.
 - Size: Set the size ratio according to the render settings.
 - Renderer: Set the render options
