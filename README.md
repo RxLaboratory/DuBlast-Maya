@@ -15,7 +15,7 @@ Better Playblasts for Maya
 *DuBlast* should work with either *Python 2.x* or *Python 3.x*.  
 For now, it works only on *Windows*, but making it work on *Linux* should be easy.
 
-- Download the latest release.
+- Download the [latest release](https://github.com/Nico-Duduf/DuMAF_DuBlast/releases).
 - Unzip all the files to one of the Maya plug-ins folder.  
     `C:\Users\YourName\Documents\maya\plug-ins\`
 - In the Maya Plug-in Manager, click the *Refresh* button, then enable *DuBlast* by checking the *Loaded* box. You'll probably want to check the *Auto load* box too...
