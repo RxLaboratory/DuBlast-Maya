@@ -15,7 +15,7 @@ Better Playblasts for Maya
 <!-- status -->
 <!-- end:status -->
 
-**Documentation:**
+**Documentation:**  
 [![Website](https://img.shields.io/badge/website-RxLab-informational)](https://rxlaboratory.org/tools/dublast-for-maya/)
 
 <!-- statistics -->
