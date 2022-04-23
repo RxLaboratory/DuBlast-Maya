@@ -10,6 +10,26 @@ Better Playblasts for Maya
 - Simple and performant default player (ffplay).
 - No need to install Quicktime anymore...
 
+[![Maya](https://img.shields.io/badge/Maya-Win-informational?color=lightgrey&logo=autodesk)](#) [![GitHub](https://img.shields.io/github/license/RxLaboratory/Duik?color=lightgrey)](LICENSE.md)
+
+<!-- status -->
+<!-- end:status -->
+
+**Documentation:**
+[![Website](https://img.shields.io/badge/website-RxLab-informational)](https://rxlaboratory.org/tools/dublast-for-maya/)
+
+<!-- statistics -->
+<!-- end:statistics -->  
+
+<!-- progress -->
+<!-- end:progress --><!-- {1} -->
+
+<!-- funding -->
+<!-- end:funding -->
+
+<!-- community -->
+<!-- end:community -->
+
 ## Installation
 
 *DuBlast* should work with either *Python 2.x* or *Python 3.x*.  
