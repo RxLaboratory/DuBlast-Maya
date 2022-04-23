@@ -13,21 +13,32 @@ Better Playblasts for Maya
 [![Maya](https://img.shields.io/badge/Maya-Win-informational?color=lightgrey&logo=autodesk)](#) [![GitHub](https://img.shields.io/github/license/RxLaboratory/Duik?color=lightgrey)](LICENSE.md)
 
 <!-- status -->
+**Status:**  
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/RxLaboratory/DuBlast-Maya?color=brightgreen)](https://github.com/RxLaboratory/DuBlast-Maya/releases) [![GitHub Release Date](https://img.shields.io/github/release-date/RxLaboratory/DuBlast-Maya)](https://github.com/RxLaboratory/DuBlast-Maya/releases) [![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/RxLaboratory/DuBlast-Maya?include_prereleases&label=testing)](https://github.com/RxLaboratory/DuBlast-Maya/tags)
 <!-- end:status -->
 
 **Documentation:**  
 [![Website](https://img.shields.io/badge/website-RxLab-informational)](https://rxlaboratory.org/tools/dublast-for-maya/)
 
 <!-- statistics -->
-<!-- end:statistics -->  
+**Statistics:**  
+[![GitHub all releases](https://img.shields.io/github/downloads/RxLaboratory/DuBlast-Maya/total)](https://github.com/RxLaboratory/DuBlast-Maya/releases) [![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/RxLaboratory/DuBlast-Maya/latest/total?sort=semver)](https://github.com/RxLaboratory/DuBlast-Maya/releases) [![GitHub issues](https://img.shields.io/github/issues-raw/RxLaboratory/DuBlast-Maya)](https://github.com/RxLaboratory/DuBlast-Maya/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/RxLaboratory/DuBlast-Maya?color=lightgrey)](https://github.com/RxLaboratory/DuBlast-Maya/issues?q=is%3Aissue+is%3Aclosed) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RxLaboratory/DuBlast-Maya)](https://github.com/RxLaboratory/DuBlast-Maya/graphs/commit-activity)<!-- end:statistics -->  
 
 <!-- progress -->
-<!-- end:progress --><!-- {1} -->
+**Progress**:  
+[![GitHub milestone](https://img.shields.io/github/milestones/progress-percent/RxLaboratory/DuBlast-Maya/1)](https://github.com/RxLaboratory/DuBlast-Maya/milestone/1) [![GitHub milestone](https://img.shields.io/github/milestones/issues-open/RxLaboratory/DuBlast-Maya/1)](https://github.com/RxLaboratory/DuBlast-Maya/milestone/1) [![GitHub milestone](https://img.shields.io/github/milestones/issues-closed/RxLaboratory/DuBlast-Maya/1)](https://github.com/RxLaboratory/DuBlast-Maya/milestone/1?closed=1) [![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/RxLaboratory/DuBlast-Maya/latest)](https://github.com/RxLaboratory/DuBlast-Maya/network)<!-- end:progress --><!-- {1} -->
 
 <!-- funding -->
+**Funding:**  
+[![Donate Now!](https://img.shields.io/badge/donate%20now!-donate.rxlab.info-blue?logo=heart)](http://donate.rxlab.info) [![Income](https://img.shields.io/endpoint?url=https%3A%2F%2Fversion.rxlab.io%2Fshields%2F%3FmonthlyIncome)](http://donate.rxlab.info) [![Sponsors](https://img.shields.io/endpoint?url=https%3A%2F%2Fversion.rxlab.io%2Fshields%2F%3FnumBackers)](http://donate.rxlab.info)  
+(includes sponsors from [Github](https://github.com/sponsors/RxLaboratory) and [Patreon](https://patreon.com/duduf))
 <!-- end:funding -->
 
 <!-- community -->
+**Community:**  
+[![Discord](https://img.shields.io/discord/480782642825134100)](http://chat.rxlab.info) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![GitHub contributors](https://img.shields.io/github/contributors-anon/RxLaboratory/DuBlast-Maya)](https://github.com/RxLaboratory/DuBlast-Maya/graphs/contributors)  
+[![Discord](https://img.shields.io/discord/480782642825134100?logo=discord&style=social&label=Discord)](http://chat.rxlab.info)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=social)](https://www.facebook.com/rxlaboratory) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=social)](https://www.instagram.com/rxlaboratory/) [![Twitter Follow](https://img.shields.io/twitter/follow/RxLaboratory?label=Twitter&style=social)](https://www.twitter.com/rxlaboratory/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=social)](https://www.linkedin.com/company/RxLaboratory/) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC64qGypBbyM-ia-yf0nFSTg?label=Youtube)](https://www.youtube.com/channel/UC64qGypBbyM-ia-yf0nFSTg) [![Github](https://img.shields.io/github/stars/RxLaboratory?style=social&label=Github)](https://github.com/RxLaboratory)
 <!-- end:community -->
 
 ## Installation
