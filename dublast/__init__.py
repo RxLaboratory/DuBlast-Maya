@@ -1,5 +1,6 @@
-# -*- coding: utf-8 -*-
-"""Better Playblasts for Maya"""
+"""
+Better Playblasts for Maya
+"""
 
 #====================== BEGIN GPL LICENSE BLOCK ======================
 #
@@ -18,25 +19,9 @@
 #
 #======================= END GPL LICENSE BLOCK ========================
 
-import maya.api.OpenMaya as om # pylint: disable=import-error
+from .command import DuBlastCmd
 
-from dublast import DuBlastCmd, VENDOR, VERSION
-
-def maya_useNewAPI():
-    """
-    The presence of this function tells Maya that the plugin produces, and
-    expects to be passed, objects created using the Maya Python API 2.0.
-    """
-    pass
-
-def initializePlugin( obj ):
-    """Registers the command"""
-    plugin = om.MFnPlugin(obj, VENDOR, VERSION)
-
-    plugin.registerCommand( DuBlastCmd.name, DuBlastCmd.createCommand, DuBlastCmd.createSyntax )
-
-def uninitializePlugin( obj ):
-    """Unregisters the command"""
-    plugin = om.MFnPlugin(obj, VENDOR, VERSION)
-
-    plugin.deregisterCommand( DuBlastCmd.name )
+TOOL_NAME = "DuBlast-Maya"
+VENDOR = "RxLaboratory"
+VERSION = "1.1.0"
+IS_PRERELEASE = False
