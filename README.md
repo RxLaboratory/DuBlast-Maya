@@ -42,11 +42,10 @@ Better Playblasts for Maya
 
 ## Installation
 
-*DuBlast* should work with either *Python 2.x* or *Python 3.x*.  
-For now, it works only on *Windows*, but making it work on *Linux* should be easy.
+For now, *DuBlast* works only on *Windows*, but making it work on *Linux* should be easy.
 
 - Download the [latest release](https://github.com/RxLaboratory/DuMAF_DuBlast/releases).
-- Unzip all the files to one of the Maya plug-ins folder.  
+- Unzip all the files and folders to one of the Maya plug-ins folder, like:  
     `C:\Users\YourName\Documents\maya\plug-ins\`
 - In the Maya Plug-in Manager, click the *Refresh* button, then enable *DuBlast* by checking the *Loaded* box. You'll probably want to check the *Auto load* box too...
 
@@ -102,3 +101,7 @@ It is a *headless* player: it doesn't have any user interface, but you can easil
 ### Other
 
 There's no option (yet) to the command so you can't set the options programmatically to create the playblast without showing the options dialog. But that should change in a near future.
+
+The settings are not saved (yet), but that's a planned feature.
+
+There's no way to change the default player, but again, that's planned too.
