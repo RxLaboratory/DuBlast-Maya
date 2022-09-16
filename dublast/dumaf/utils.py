@@ -42,6 +42,7 @@ def checkUpdate( toolName, toolVersion, language="en", preRelease=False, discree
                 button=["OK"],
                 icon="information"
             )
+        print(toolName + " is up-to-date (" + toolVersion + ").")
         return
 
     dialog = UpdateDialog( info, toolName, toolVersion)

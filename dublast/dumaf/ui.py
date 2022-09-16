@@ -15,7 +15,7 @@ from PySide2.QtGui import ( # pylint: disable=no-name-in-module,import-error
     QIcon,
     QDesktopServices,
 )
-from PySide2.QtCore import ( # pylint: disable=no-name-in-module
+from PySide2.QtCore import ( # pylint: disable=no-name-in-module,import-error
     Slot,
     QUrl
 )
@@ -87,7 +87,7 @@ class UpdateDialog( QDialog ):
         self.setLayout(mainLayout)
 
         if updateInfo.get("update", False):
-            self.setWindowTitle("" + toolName + " available!" )
+            self.setWindowTitle("New " + toolName + " available!" )
 
             latestVersionLabel = QLabel("version: " + updateInfo.get("version") )
             mainLayout.addWidget(latestVersionLabel)
