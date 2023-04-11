@@ -1,0 +1,23 @@
+{
+    "title": "DuBlast for Maya",
+    "hosts": [
+        {
+            "name": "maya",
+            "title": "Maya"
+        }
+    ],
+    "os": [
+        {
+            "name": "mac",
+            "title": "macOS"
+        },
+        {
+            "name": "win",
+            "title": "Windows"
+        },
+        {
+            "name": "linux",
+            "title": "Linux"
+        }
+    ]
+}
