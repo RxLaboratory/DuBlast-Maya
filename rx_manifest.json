@@ -19,5 +19,6 @@
             "name": "linux",
             "title": "Linux"
         }
-    ]
+    ],
+    "description": "Better Playblasts for Maya"
 }
